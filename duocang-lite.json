@@ -1,0 +1,36 @@
+{
+  "urls": [
+    {
+      "name": "高天流云js(298站)",
+      "url": "https://0.wudaozhe.net/tvbox/%E9%AB%98%E5%A4%A9%E6%B5%81%E4%BA%91js.json"
+    },
+    {
+      "name": "哈吉米(172站)",
+      "url": "https://0.wudaozhe.net/tvbox/%E5%93%88%E5%90%89%E7%B1%B3.json"
+    },
+    {
+      "name": "心魔(151站)",
+      "url": "https://0.wudaozhe.net/tvbox/%E5%BF%83%E9%AD%94.json"
+    },
+    {
+      "name": "幸福年年(123站)",
+      "url": "https://0.wudaozhe.net/tvbox/%E5%B9%B8%E7%A6%8F%E5%B9%B4%E5%B9%B4.json"
+    },
+    {
+      "name": "潇洒(116站)",
+      "url": "https://0.wudaozhe.net/tvbox/%E6%BD%87%E6%B4%92.json"
+    },
+    {
+      "name": "小虎斑(113站)",
+      "url": "https://0.wudaozhe.net/tvbox/%E5%B0%8F%E8%99%8E%E6%96%91.json"
+    },
+    {
+      "name": "摸鱼(111站)",
+      "url": "https://0.wudaozhe.net/tvbox/%E6%91%B8%E9%B1%BC.json"
+    },
+    {
+      "name": "天神(104站)",
+      "url": "https://0.wudaozhe.net/tvbox/%E5%A4%A9%E7%A5%9E.json"
+    }
+  ]
+}
